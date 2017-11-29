@@ -1,0 +1,7 @@
+/root/projects/match/build/CMakeFiles/install.dir
+/root/projects/match/build/CMakeFiles/list_install_components.dir
+/root/projects/match/build/CMakeFiles/rebuild_cache.dir
+/root/projects/match/build/CMakeFiles/match.dir
+/root/projects/match/build/CMakeFiles/edit_cache.dir
+/root/projects/match/build/CMakeFiles/install/strip.dir
+/root/projects/match/build/CMakeFiles/install/local.dir
